@@ -5,3 +5,4 @@ __pycache__/
 build/
 *.pyc
 node_modules/
+.pytest_cache/
